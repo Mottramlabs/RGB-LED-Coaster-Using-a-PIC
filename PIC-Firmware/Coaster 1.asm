@@ -15,7 +15,7 @@
 ;
 ;   Press and hold the button and the colour change cycling runs faster, release when the desired manual set colour 
 ;   is found, the light blinks briefly as the new values are set in the EEPROM.
-;   When the fixed colour mode is select (above) press and hold the button until the lights go out, the colour changing 
+;   When the fixed colour mode is selected (above) press and hold the button until the lights go out, the colour changing 
 ;   mode is now selected and stored.
 ;
 ;   Note: Make sure that under programmer settings that "Preserve device EEPROM" is checked, else FF is written to all 
